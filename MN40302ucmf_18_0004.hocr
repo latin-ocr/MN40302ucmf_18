@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40302ucmf_18_0004.png"; bbox 0 0 2429 3456; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 43 216 1215 979">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 43 216 1215 979">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 216 1205 430; baseline -0.009 -61"><span class='ocrx_word' id='word_1_1' title='bbox 43 425 45 430; x_wconf 4' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_2' title='bbox 713 216 1205 377; x_wconf 78' lang='lat' dir='ltr'><strong>Microfilm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 61 492 1215 769; baseline 0.003 -73"><span class='ocrx_word' id='word_1_3' title='bbox 61 763 63 769; x_wconf 8' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_4' title='bbox 395 492 1215 752; x_wconf 76' lang='lat' dir='ltr'><strong>universityo</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 816 776 1196 979; baseline 0.005 -4"><span class='ocrx_word' id='word_1_5' title='bbox 816 776 1196 979; x_wconf 77' lang='lat' dir='ltr'>Librar</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 719 1132 1186 1342">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 719 1132 1186 1342">
+     <span class='ocr_line' id='line_1_4' title="bbox 719 1132 1186 1342; baseline 0.004 -42"><span class='ocrx_word' id='word_1_6' title='bbox 719 1280 721 1284; x_wconf 9' lang='grc' dir='ltr'><em>ι</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 754 1132 1186 1342; x_wconf 79' lang='lat' dir='ltr'>February</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 515 1815 1215 1971">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 515 1815 1215 1971">
+     <span class='ocr_line' id='line_1_5' title="bbox 515 1815 1215 1971; baseline -0.013 0"><span class='ocrx_word' id='word_1_8' title='bbox 515 1815 1128 1971; x_wconf 81' lang='lat' dir='ltr'>Preservation</span> <span class='ocrx_word' id='word_1_9' title='bbox 1185 1836 1215 1899; x_wconf 65' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1220 3456">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1220 3456">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1220 3456; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1220 3456; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
